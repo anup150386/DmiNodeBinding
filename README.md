@@ -1,0 +1,2 @@
+# DmiNodeBinding
+western digital project
